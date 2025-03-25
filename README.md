@@ -66,7 +66,7 @@ SELECT * FROM v2 WHERE rownumber % 3 = 0 LIMIT 10000;
 
 | View | Image |
 |------|-------|
-| **v1 - Descending Order** | ![Descending View](/Users/consultadd/Desktop/task/Task_1/assets/img/finaloutput1.png) |
+| **v1 - Descending Order** | ![Descending View](Task_1/assets/img/finaloutput1.png) |
 | **v2 - Ascending Order**  | ![Ascending View](Task_1/assets/img/finaloutput2.png) |
 
 
